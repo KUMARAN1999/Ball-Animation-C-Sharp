@@ -1,0 +1,7 @@
+c:\users\personal\documents\visual studio 2012\Projects\16CS125_Ball\16CS125_Ball\bin\Debug\16CS125_Ball.exe
+c:\users\personal\documents\visual studio 2012\Projects\16CS125_Ball\16CS125_Ball\bin\Debug\16CS125_Ball.pdb
+c:\users\personal\documents\visual studio 2012\Projects\16CS125_Ball\16CS125_Ball\obj\Debug\_16CS125_Ball.Form1.resources
+c:\users\personal\documents\visual studio 2012\Projects\16CS125_Ball\16CS125_Ball\obj\Debug\_16CS125_Ball.Properties.Resources.resources
+c:\users\personal\documents\visual studio 2012\Projects\16CS125_Ball\16CS125_Ball\obj\Debug\16CS125_Ball.csproj.GenerateResource.Cache
+c:\users\personal\documents\visual studio 2012\Projects\16CS125_Ball\16CS125_Ball\obj\Debug\16CS125_Ball.exe
+c:\users\personal\documents\visual studio 2012\Projects\16CS125_Ball\16CS125_Ball\obj\Debug\16CS125_Ball.pdb
